@@ -1,0 +1,11 @@
+# Modules 
+node_modules/
+
+# Fichiers de configuration
+.env
+
+# Fichier de VSCode
+.vscode/
+
+# Fichier du messages de commit
+commit.txt
